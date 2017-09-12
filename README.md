@@ -1,2 +1,2 @@
 # ResumeBuilder
-Given a master data, generate the resume as per the preference.
+Given a master data, generate the resume as per the use case.
