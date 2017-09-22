@@ -3,6 +3,16 @@ Given a master data, generate the resume as per the use case. Output has to be d
 
 
 
+### Resume Helper
+
+https://github.com/divad12/resume
+
+https://github.com/daverigie/ResumeBuilder
+
+https://github.com/hexatonics/python-resume-builder
+
+https://github.com/Saiteja-Reddy/Resume-Builder
+
 ### Linkedin Help
 
 https://github.com/michaelhelmick/linkedin
