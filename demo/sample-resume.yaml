@@ -1,0 +1,68 @@
+header:
+  name: Homer J. Simpson
+  address: 742 Evergreen Terrace
+  phone: (939) 555-0113
+  email: chunkylover53@aol.com
+  skype: simpson1
+  social:
+    bullets:
+      - url1
+      - url2
+      - url3
+      - url4
+
+body:
+  - section: Project Experience
+    positions:
+        - project: Springfield Nuclear Power Plant
+          location: some github url
+          date: Jun 1989
+          bullets: 
+            - Strengthened safety procdures, resulting in 75% fewer accidents on days I was absent
+            - Pioneered workplace stress-reduction methods that worked for at least one employee
+        - project: National Aeronautics and Space Administration (NASA)
+          location: some github url
+          date: Apr 1994
+          bullets: 
+            - Averted in-flight distaster by forcing giant ants out of cockpit during space shuttle mission 
+  - section: Work Experience
+    positions:
+        - institution: Springfield Nuclear Power Plant
+          title: Safety Inspector
+          location: Springfield, USA
+          date: Jun 1989 - Present
+          bullets: 
+            - Strengthened safety procdures, resulting in 75% fewer accidents on days I was absent
+            - Pioneered workplace stress-reduction methods that worked for at least one employee
+        - institution: National Aeronautics and Space Administration (NASA)
+          title: Astronaut
+          location: Springfield, USA
+          date: Apr 1994 - Apr 1994
+          bullets: 
+            - Averted in-flight distaster by forcing giant ants out of cockpit during space shuttle mission 
+        - institution: Mr. Plow
+          title: Owner, Driver
+          location: Springfield, USA
+          date: Jan 1992 - Mar 1992
+          bullets: 
+            - Boosted busines 15% by executing late-night TV marketing compaign targeting homeowners
+            - Deliberated at length before rescuing man trapped beneath mountain avalanche
+        - institution: Springfield Isotopes Baseball Club
+          title: Game Mascot ("Dancin' Homer")
+          location: Springfield, USA
+          date: "1990 - 1990"
+          bullets: 
+            - Generated 25% increase in fan interest and 50% jump in beer sales by leading cheers at home games for minor league baseball team
+  - section: Education
+    positions:
+        - institution: Springfield University
+          title: B.S. Nuclear Physics
+          location: Springfield, USA
+          date: May 1993
+        - institution: Springfield High School
+          title: HS Diploma College Prep
+          location: Springfield, USA
+          date: May 1970
+  - section: Honors / Awards
+    bullets:
+      - "1992 Montgomery Burns Award for Outstanding Service in the Field of Excellence"
