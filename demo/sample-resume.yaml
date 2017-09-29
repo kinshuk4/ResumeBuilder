@@ -12,6 +12,9 @@ header:
       - url4
 
 body:
+  - section: Summary
+    positions:
+        - bullets: Want to become blah blah
   - section: Project Experience
     positions:
         - project: Springfield Nuclear Power Plant
