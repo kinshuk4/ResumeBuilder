@@ -15,6 +15,18 @@ body:
   - section: Summary
     positions:
         - bullets: Want to become blah blah
+  - section: Technical Skills
+    positions:
+        - project: left
+          bullets: 
+            - skill-line1
+            - skill-line2
+            - skill-line3
+        - project: right
+          bullets: 
+            - skill-line4
+            - skill-line5
+            - skill-line6
   - section: Project Experience
     positions:
         - project: Springfield Nuclear Power Plant
