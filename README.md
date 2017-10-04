@@ -1,6 +1,8 @@
 # ResumeBuilder
 Given a master data, generate the resume as per the use case. Output has to be decided - can be html or docx. 
 
+### Validating Yaml
+https://stackoverflow.com/questions/3262569/validating-a-yaml-document-in-python
 
 
 ### Resume Helper
