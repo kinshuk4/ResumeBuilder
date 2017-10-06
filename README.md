@@ -5,6 +5,7 @@ Given a master data, generate the resume as per the use case. Output has to be d
 https://stackoverflow.com/questions/3262569/validating-a-yaml-document-in-python
 
 ### docx Generator
+https://github.com/pjs7678/docx_replace
 https://github.com/darkmirage/cv-randomize
 
 ### Resume Helper
